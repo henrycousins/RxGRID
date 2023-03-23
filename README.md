@@ -108,4 +108,4 @@ This software is available under an MIT License.
 
 ## Sustainability
 
-We anticipate releasing core updates on a 6-month basis for a minimum of 2 years and will respond to any issues regarding the codebase, which is open-source, as they arise. Supporting funding for RxGRID is provided by R01 GM102365 from National Institutes of Health.
+We anticipate releasing core updates on a 6-month basis for a minimum of 2 years and will respond to any issues regarding the codebase, which is open-source, as they arise. Supporting funding for RxGRID is provided by the National Institutes of Health (GM007365, GM102365, LM013337, and HG011316), by the Donald and Delia Baxter Foundation, by the National Science Foundation (1953686 and 1953415), and by the Knight-Hennessy Scholarships.
