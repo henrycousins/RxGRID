@@ -1,6 +1,6 @@
 # RxGRID for CRISPR-guided drug repurposing
 
-RxGRID (Reverse-genetic proXimity Guidance for Repurposing Investigational Drugs) is a method for prioritizing candidates for drug repurposing based on network proximity to genetic hits from high-throughput screens. For additional documentation, please refer to our preprint, available [here](https://www.medrxiv.org/content/10.1101/2022.07.02.22277181v1.full). 
+RxGRID (Rapid proXimity Guidance for Repurposing Investigational Drugs) is a method for prioritizing candidates for drug repurposing based on network proximity to genetic hits from high-throughput screens. For additional documentation, please refer to our preprint, available [here](https://www.medrxiv.org/content/10.1101/2022.07.02.22277181v1.full). 
 
 ![Alt text](graphical_overview.png?raw=true "RxGRID Overview")
 
